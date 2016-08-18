@@ -1,5 +1,5 @@
 Compiler version,clang version 3.9.0 (trunk 274314) (llvm/trunk 274301)
-Compiler flags,--target=arm-none-eabi -Os -mcpu=cortex-m0 -mthumb
+Compiler flags,--target=arm-none-eabi -O2 -mcpu=cortex-m0 -mthumb
 
 Date,2016-07-01
 
